@@ -22,7 +22,7 @@
 
 | 이름 | 역할 | GitHub 프로필 | 이메일 |
 |------|------|----------------|--------|
-| 김상원 | 프로젝트 매니저 및 인공지능 학습 및 배포 | [GitHub](https://github.com/daydream-er) | borntocde@naver.com |
+| 김상원 | 프로젝트 매니저, 인공지능 학습 및 배포 | [GitHub](https://github.com/daydream-er) | borntocde@naver.com |
 | 김철수 | 프론트엔드 개발자 | [GitHub](https://github.com/cheolsu) | cheolsu@example.com |
 | 이영희 | 백엔드 개발자 | [GitHub](https://github.com/younghee) | younghee@example.com |
 | 이영희2 | 백엔드 개발자 | [GitHub](https://github.com/younghee) | younghee@example.com |
