@@ -10,7 +10,7 @@
 
 ## 프로젝트 구현
 
-### [GCP Server] (https://github.com/AI-based-ETA/GCP-Server)
+### [GCP Server](https://github.com/AI-based-ETA/GCP-Server)
 1. Front-End의 ``출발지, 도착지, 출발시각``을 요청을 받는다.
 2. 인공지능은 출발시각 1시간 전 데이터을 기반으로 미래의 1시간을 추론한다.
 3. A* 알고리즘의 연산을 통해 최단 시간 ETA와 경로를 반환한다. 이때, 경과 시간이 앞서 인공지능이 추론한 시간을 초과할 경우 다시 2번으로 돌아간다.
@@ -19,7 +19,7 @@
 
 ### Data preparation
 
-### [AI model] (https://github.com/AI-based-ETA/pretrained_AI_Model/tree/main))
+### [AI model](https://github.com/AI-based-ETA/pretrained_AI_Model/tree/main)
 1. Graph-WaveNet 모델에 대한 설명
 2. Epoch 마다 평균 학습 시간과 추론 시간
 3. 학습 성능과 추론 성능
