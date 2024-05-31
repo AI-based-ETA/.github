@@ -30,6 +30,16 @@
 2. Epoch 마다 평균 학습 시간과 추론 시간
 3. 학습 성능과 추론 성능
 
+## 시연
+
+<img width="720" alt="1" src="https://github.com/AI-based-ETA/.github/assets/65798779/c7e51af5-dfc3-4f5e-abf0-5602a7f5ec6e">
+
+(1) 경로 요청 및 인공지능 추론
+
+<img width="720" alt="2" src="https://github.com/AI-based-ETA/.github/assets/65798779/8b8ee40c-cfd8-4799-9413-949df2f95b37">
+
+(2) 경로 시각화 및 ETA 도출
+
 ## 팀원 소개
 
 | 이름 | 역할 | GitHub 프로필 | 이메일 |
