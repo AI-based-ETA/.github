@@ -36,5 +36,5 @@
 |------|------|----------------|--------|
 | 김상원 | 프로젝트 매니저, 인공지능 학습 및 배포 | [GitHub](https://github.com/daydream-er) | borntocde@naver.com |
 | 윤태형 | 프론트엔드 개발자, React 및 Flask | [GitHub](https://github.com/YunTaeng) | howard9166@naver.com |
-| 최우석 | 백엔드 개발자, 서버 운용 및 관리 | [GitHub](https://github.com/ddakgi00) | younghee@example.com |
+| 최우석 | 백엔드 개발자, 서버 운용 및 관리 | [GitHub](https://github.com/ddakgi00) | ddakgi00@naver.com |
 | 강주현 | 프론트엔드 개발자, React 및 경로 탐색 | [GitHub](https://github.com/juhyunk0820) | juhyunk0820@naver.com |
