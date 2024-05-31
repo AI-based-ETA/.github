@@ -15,9 +15,15 @@
 2. 인공지능은 출발시각 1시간 전 데이터을 기반으로 미래의 1시간을 추론한다.
 3. A* 알고리즘의 연산을 통해 최단 시간 ETA와 경로를 반환한다. 이때, 경과 시간이 앞서 인공지능이 추론한 시간을 초과할 경우 다시 2번으로 돌아간다.
 
-### Front-End
+### [Front-End](https://github.com/AI-based-ETA/Capstone_Kakaomap)
+1. React를 사용한 UI
+2. Flask와 GCP를 사용한 인공지능 연계 및 데이터 송수신
+3. Kakao API를 사용한 Map 구현 및 경로 표시
 
-### Data preparation
+### [Data preparation](https://github.com/AI-based-ETA/Preprocessing)
+1. LightGBM을 사용한 결측 데이터 보완(예측 방법)
+2. 교통량 비율에 따른 데이터 비율 가중 평균 변환
+3. 인공지능이 사용할 수 있도록 데이터 형식 변환
 
 ### [AI model](https://github.com/AI-based-ETA/pretrained_AI_Model/tree/main)
 1. Graph-WaveNet 모델에 대한 설명
