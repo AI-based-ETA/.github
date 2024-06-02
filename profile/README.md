@@ -6,7 +6,7 @@
 
 ## 프로젝트 아키텍처
 
-![아키텍쳐](https://github.com/YunTaeng/Cap_map/assets/52120957/0d07637e-96ed-4110-ac43-d17f508fd003)
+![Architecture](https://github.com/YunTaeng/Cap_map/assets/52120957/0e861bd5-de79-4dd8-a1d1-ac66a2785e5a)
 ## 프로젝트 구현
 
 ### [GCP Server](https://github.com/AI-based-ETA/GCP-Server)
