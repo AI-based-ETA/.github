@@ -31,7 +31,9 @@
 
 ## 시연
 <p align="center">
+
 <img src="https://github.com/YunTaeng/Cap_map/assets/52120957/68d35d5c-2773-4f49-accc-40dedf7b44f5">
+  
 시연영상
 
 <img width="500" alt="1" src="https://github.com/AI-based-ETA/.github/assets/65798779/c7e51af5-dfc3-4f5e-abf0-5602a7f5ec6e">
