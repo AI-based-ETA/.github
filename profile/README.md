@@ -30,10 +30,10 @@
 3. 학습 성능과 추론 성능
 
 ## 시연
-시연영상
 <p align="center">
 <img src="https://github.com/YunTaeng/Cap_map/assets/52120957/68d35d5c-2773-4f49-accc-40dedf7b44f5">
-</p>
+시연영상
+
 <img width="500" alt="1" src="https://github.com/AI-based-ETA/.github/assets/65798779/c7e51af5-dfc3-4f5e-abf0-5602a7f5ec6e">
 
 (1) 경로 요청 및 인공지능 추론
@@ -41,6 +41,9 @@
 <img width="500" alt="2" src="https://github.com/AI-based-ETA/.github/assets/65798779/8b8ee40c-cfd8-4799-9413-949df2f95b37">
 
 (2) 경로 시각화 및 ETA 도출
+  
+</p>
+
 
 ## 팀원 소개
 
